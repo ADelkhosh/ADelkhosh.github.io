@@ -1,4 +1,4 @@
-baseurl = "https://asaldelkhosh.github.io/"
+baseurl = "https://ADelkhosh.github.io/"
 title = "Asal Delkhosh"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
@@ -41,7 +41,7 @@ metaDataFormat= "yaml"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/asaldelkhosh"
+    url  = "https://github.com/ADelkhosh"
 
   [[params.social]]
     name = "linkedin"
